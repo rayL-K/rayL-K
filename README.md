@@ -19,8 +19,7 @@ I'm a student developer in Nanjing, China. I started VeyraLux to make software t
 ### What I'm building
 
 - **[Zamak](https://github.com/VeyraLux/Zamak)**: a statically typed language with Python-style syntax. It compiles to small native executables on Windows, Linux, and macOS, catches ownership and type mistakes before the program runs, and has its own package index.
-- **[Anima](https://vcr.veyralux.org)**: a virtual companion you meet in the browser. It listens, remembers your conversations, and joins in.
-- **[K_Robot_software](https://github.com/VeyraLux/K_Robot_software)**: a service that operates desktop software on its own and replies to people.
+- **[Anima](https://vcr.veyralux.org)**: a virtual companion you meet in the browser. It listens, remembers your conversations, and joins in. Source: [VeyraLux/Viusual_Companion_Robot](https://github.com/VeyraLux/Viusual_Companion_Robot).
 
 ### Other projects
 
@@ -45,8 +44,7 @@ Open an issue in any repository, or email [rayl_k@foxmail.com](mailto:rayl_k@fox
 ### 正在做的
 
 - **[Zamak](https://github.com/VeyraLux/Zamak)**：语法像 Python 的静态类型编程语言，在 Windows、Linux、macOS 上编译成小巧的原生程序，运行之前就指出所有权和类型错误，有自己的包索引。
-- **[Anima](https://vcr.veyralux.org)**：打开网页就能见面的虚拟伙伴。它听你说话，记住你们聊过的事，再陪你一起开口。
-- **[K_Robot_software](https://github.com/VeyraLux/K_Robot_software)**：让程序在服务端自主操作桌面软件、回复用户消息。
+- **[Anima](https://vcr.veyralux.org)**：打开网页就能见面的虚拟伙伴。它听你说话，记住你们聊过的事，再陪你一起开口。源码：[VeyraLux/Viusual_Companion_Robot](https://github.com/VeyraLux/Viusual_Companion_Robot)。
 
 ### 其他作品
 
